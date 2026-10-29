@@ -1,0 +1,19 @@
+{
+  "result": "PASS",
+  "version": "1.1.0",
+  "executable": "release/Qishi-1.1.0.exe",
+  "sizeBytes": 110549103,
+  "checked": [
+    "portable-exe-launch",
+    "isolated-preload",
+    "clean-first-run",
+    "pixel-theme-switch",
+    "task-create",
+    "timer-start-finish",
+    "session-persistence",
+    "session-reflection",
+    "pixel-mini-window",
+    "no-renderer-errors"
+  ],
+  "dataDir": ".test-data/release-1793279269258"
+}

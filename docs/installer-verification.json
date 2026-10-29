@@ -1,0 +1,24 @@
+{
+  "result": "PASS",
+  "version": "1.1.0",
+  "installer": "release/Qishi-Setup-1.1.0-x64.exe",
+  "sizeBytes": 110683666,
+  "checked": [
+    "silent-install",
+    "desktop-shortcut-target",
+    "start-menu-shortcut-target",
+    "windows-uninstall-registration",
+    "installed-app-launch",
+    "task-and-theme-persistence",
+    "no-renderer-errors",
+    "same-version-reinstall",
+    "isolated-test-data-retained-on-reinstall",
+    "uninstall-removes-program-shortcuts-registration",
+    "isolated-test-data-retained-on-uninstall",
+    "original-shortcuts-restored",
+    "pre-existing-processes-untouched"
+  ],
+  "testDir": ".test-data/installer-1793282095284",
+  "temporaryInstallationRemoved": true,
+  "scope": "Windows x64 current-user silent install/reinstall/uninstall; installed app UI and actual shortcut targets; isolated application data."
+}
